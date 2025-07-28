@@ -1,0 +1,3 @@
+/Users/Akiso/dev/Robo-Karaoke/build/CMakeFiles/Karaoke.dir
+/Users/Akiso/dev/Robo-Karaoke/build/CMakeFiles/edit_cache.dir
+/Users/Akiso/dev/Robo-Karaoke/build/CMakeFiles/rebuild_cache.dir
